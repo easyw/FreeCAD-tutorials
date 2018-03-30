@@ -4,3 +4,6 @@ a collection of simple tutorials of the use of my WBs
 
 - Manipulating Gears in a Part container
 ![Manipulating Gears in a Part container](manipulator-gears.gif?raw=true "Manipulating Gears")
+
+- Aligning Screws in a Hole
+![Aligning Screws in a Hole](alignign-screws-to-holes.gif?raw=true "Aligning Screws in a Hole")
