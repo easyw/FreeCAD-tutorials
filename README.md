@@ -7,3 +7,6 @@ a collection of simple tutorials of the use of my WBs
 
 - Aligning Screws in a Hole
 ![Aligning Screws in a Hole](alignign-screws-to-holes.gif?raw=true "Aligning Screws in a Hole")
+
+- Aligning Arduino-pcb to a case
+![Aligning Arduino-pcb to a case](align-arduino-pcb-to-a-case.gif?raw=true "Aligning Arduino-pcb to a case")
